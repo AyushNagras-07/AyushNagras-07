@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Aspiring Data Scientist | 📊 Python • SQL • Pandas • Matplotlib<br>🎓 TYBTech ENTC @ MITAOE | 🛠 Building projects & learning in public<br>📍 Currently exploring: EDA, ML basics, real-world datasets<br>📌 IBM Data Science Certificate (in progress)<br>
+🧠 Aspiring Data Engineer | 📊 Python • SQL • Airflow <br>🎓 TYBTech ENTC @ MITAOE | 🛠 Building Data Driven projects & learning in public<br>📍 Currently exploring: DAGS, real-world datasets , Worflows <br>📌 IBM Data Science Certificate (in progress)<br>
 
 
 ## 🌐 Socials:
